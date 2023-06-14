@@ -20,7 +20,7 @@ Contributions to this research project are welcome! If you have any suggestions,
 
 ## License
 
-This project is licensed under the [MIT License](https://chat.openai.com/c/LICENSE).
+This project is licensed under the [MIT License](https://opensource.org/license/mit/).
 
 
 Feel free to customize the sections and content to fit the specific needs of your project.
