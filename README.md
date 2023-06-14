@@ -13,14 +13,14 @@ The goal of this interdisciplinary research is to comprehensively investigate ho
 ## Requirements
 
 - Python 3.x
-- [Data]([https://drive.google.com/drive/folders/1A8N4WOZUgshCMg8u78jZHc2-JlojJ7fY?usp=sharing]): Cleaned On-chain and Flashbots Data
+- [Data](https://drive.google.com/drive/folders/1A8N4WOZUgshCMg8u78jZHc2-JlojJ7fY?usp=sharing): Cleaned On-chain and Flashbots Data
 
 ## Contributing
 Contributions to this research project are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request or open an issue to discuss the changes.
 
 ## License
 
-This project is licensed under the [MIT License]([license-link](https://chat.openai.com/c/LICENSE)).
+This project is licensed under the [MIT License](https://chat.openai.com/c/LICENSE).
 
 
 Feel free to customize the sections and content to fit the specific needs of your project.
