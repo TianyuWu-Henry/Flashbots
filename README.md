@@ -13,7 +13,7 @@ The goal of this interdisciplinary research is to comprehensively investigate ho
 ## Requirements
 
 - Python 3.x
-- [Data]([link-to-the-data](https://drive.google.com/drive/folders/1A8N4WOZUgshCMg8u78jZHc2-JlojJ7fY?usp=sharing)): Cleaned On-chain and Flashbots Data
+- [Data]([https://drive.google.com/drive/folders/1A8N4WOZUgshCMg8u78jZHc2-JlojJ7fY?usp=sharing]): Cleaned On-chain and Flashbots Data
 
 ## Contributing
 Contributions to this research project are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request or open an issue to discuss the changes.
